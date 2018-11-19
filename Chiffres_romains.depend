@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542289389 source:c:\users\mocky\documents\ludus\deuxième année\projets codeblock\chiffres_romains\main.c
+	<stdio.h>
+	<stdlib.h>
+
